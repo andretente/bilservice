@@ -18,4 +18,4 @@ Exercise:
 - The submenu selection should be displayed vertically (as a dropdown) when you hover over the main menu item.
 
 Link to solution:
-https://andretente.github.io/bilservice/index.html
+https://andretente.github.io/bilservice/
